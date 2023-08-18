@@ -21,6 +21,14 @@ Work in the `apple-pie` folder. Find all the files, images and text content need
 
 <br>
 
+## Final Result
+
+Please find a screenshot of my final result below:
+
+![Apple Pie](https://i.imgur.com/lGGM68Q.jpg)
+
+<br>
+
 ## Extra Resources
 
 - [CSS Reference from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
